@@ -7,7 +7,7 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.Scanner;
 
-public class Assignment6 {
+public class SectionAssignment6 {
     public static void main(String[] args) {
 
         try (Scanner scanner = new Scanner(System.in)) {
